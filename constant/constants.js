@@ -1,0 +1,1 @@
+export const categories = ["cate1", "cate2", "cate3"]
